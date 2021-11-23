@@ -24,15 +24,20 @@ code {
 }
 
 .container h1 {
-  font-size:2.6rem;
-  margin-bottom:0.2rem;
+  font-size:3rem;
+  margin-bottom:1.5rem;
+}
+
+.container small {
+  font-size: 1.3rem;
+  margin-bottom:1.5rem;
 }
 
 .container .labels {
   list-style: none;
   display: flex;
   text-transform: uppercase;
-  font-size: .8rem;
+  font-size: 1rem;
   padding:.3rem .3rem;
   background-color: #0C0E1B;
   border-radius: 1.5rem;
